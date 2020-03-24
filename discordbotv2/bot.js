@@ -6,7 +6,7 @@ const token = 'NjkxMzc2MTQ0MDM2OTIxNDI0.XnfEgQ.UdRsKMCP-GflEe7jmQtY8uJgbLw';
 
 const PREFIX = '!';
 
-var version = 'v1.0.7'
+var version = 'v1.0.8'
 
 bot.on('ready', () =>{
     console.log('Ready!');
