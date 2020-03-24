@@ -2,11 +2,11 @@ const Discord = require('discord.js')
 const {Client, Attachment} = require('discord.js');
 const bot = new Client();
 
-const token = 'NjkxMzc2MTQ0MDM2OTIxNDI0.XnfEgQ.UdRsKMCP-GflEe7jmQtY8uJgbLw';
+const token = 'NjkxMzc2MTQ0MDM2OTIxNDI0.Xnor9Q.bNSSZacVIiP5yFDMIVg55V8j2B0';
 
 const PREFIX = '!';
 
-var version = 'v1.0.8'
+var version = 'v1.0.7'
 
 bot.on('ready', () =>{
     console.log('Ready!');
